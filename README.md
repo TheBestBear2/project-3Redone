@@ -1,5 +1,11 @@
 # React + Vite
 
+workable navbar
+has oprational todo list
+todo list can add todods
+todo list can remove todos
+todo list can move todo objects up and down
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
