@@ -5,6 +5,11 @@ has oprational todo list
 todo list can add todods
 todo list can remove todos
 todo list can move todo objects up and down
+has working contact area
+contact list can add first name
+contact list can add last name
+contact list can add email
+contact list can add comments
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
